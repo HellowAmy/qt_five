@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map/3.jpeg</file>
+        <file>map/black.png</file>
+        <file>map/white.png</file>
+        <file>map/t_black.png</file>
+        <file>map/t_white.png</file>
+        <file>map/wid/butt_enter.png</file>
+        <file>map/wid/butt_normal.png</file>
+        <file>map/wid/butt_press.png</file>
+        <file>map/wid/edit_1.png</file>
+    </qresource>
+</RCC>
